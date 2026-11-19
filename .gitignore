@@ -1,0 +1,8 @@
+__pycache__/
+*.db
+evidencia_real/
+evidencia_ctu13/
+*.binetflow
+!ctu13_prueba_errores.binetflow
+trafico_real*.csv
+conversaciones_*.csv
